@@ -30,3 +30,9 @@ Bilibili: [https://www.bilibili.com/video/av87684880?from=search&seid=1728504458
 
 1. [Students' Guide to Raft](https://thesquareplanet.com/blog/students-guide-to-raft/)
 2. [Raft 动画演示](http://thesecretlivesofdata.com/raft/)
+
+别人整理的笔记，读paper和做实验，结合cdh生产环境
+https://www.zhihu.com/column/c_1496528561465303040
+
+实验
+
